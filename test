@@ -1,1 +1,5 @@
-1234
+public class HelloWorld{
+  public static main(String[] srgs){
+    System.out.println("hello world!");
+  }
+}

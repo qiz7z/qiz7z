@@ -1,5 +1,3 @@
-package 链表;
-
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Vector;

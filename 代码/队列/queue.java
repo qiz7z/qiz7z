@@ -5,7 +5,7 @@ import java.util.Queue;
 
 public class Test {
     public static void main(String[] args) {
-        //是一个接口继承于collection
+        //是一个接口，继承于collection
         Queue<Integer> queue=new ArrayDeque<>();
         queue.add(12);//超出边界会抛出异常
         queue.offer(13);

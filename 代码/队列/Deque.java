@@ -1,5 +1,5 @@
 package 队列;
-
+//继承自queue
 import java.util.ArrayDeque;
 import java.util.Deque;
 

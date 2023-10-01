@@ -20,3 +20,4 @@ public class Test1 {
         return filterHero.doFilter(list);
     }
 }
+//需要配合上边的Hero类使用

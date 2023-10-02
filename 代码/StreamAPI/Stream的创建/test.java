@@ -22,5 +22,10 @@ public class Test {
         //4.使用Files类来创建流
         /*Files.lines();
         Files.list();*/
+        //5.合并流
+        Stream<String> stream3=Arrays.stream(new String[]{"aa","bb","dd"});
+        Stream<String> stream4=Arrays.stream(new String[]{"ee","rr","gg"});
+        Stream<String> stream5=Stream.concat(stream4,stream3);
+        stream5.forEach(System.out::println);
     }
 }

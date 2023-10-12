@@ -9,4 +9,5 @@ qiz7z/qiz7z is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiz7z&show_icons=true&theme=radical)
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=qiz7z&theme=xcode" /> </div>
+
+

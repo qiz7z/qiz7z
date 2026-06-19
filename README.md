@@ -15,7 +15,7 @@
 
 - 🎓 在读研究生，专注于 **大语言模型 (LLM)** 和 **自然语言处理 (NLP)**
 - 🤖 热衷于 **AI Agent** 开发与应用
-- 🔍 研究方向：LLM 微调、强化学习、思维链 (Chain of Thought)
+- 🔍 研究内容：LLM 微调、强化学习、思维链 (Chain of Thought)、机器翻译
 - 📊 数据驱动，善于将复杂问题转化为可落地的解决方案
 
 ## 🛠️ Research & Skills

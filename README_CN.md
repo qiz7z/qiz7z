@@ -118,7 +118,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qiz7z)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qi_x_liu@foxmail.com)
+[![Email](https://img.shields.io/badge/Email-qi__x__liu@foxmail.com-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:qi_x_liu@foxmail.com)
 
 </div>
 

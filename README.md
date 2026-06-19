@@ -7,16 +7,18 @@
 [![GitHub followers](https://img.shields.io/github/followers/qiz7z?style=social)](https://github.com/qiz7z?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/qiz7z?style=social)](https://github.com/qiz7z?tab=repositories)
 
+English | [中文](README_CN.md)
+
 </div>
 
 ---
 
 ## 🔬 About Me
 
-- 🎓 在读研究生，专注于 **大语言模型 (LLM)** 和 **自然语言处理 (NLP)**
-- 🤖 热衷于 **AI Agent** 开发与应用
-- 🔍 研究内容：LLM 微调、强化学习、思维链 (Chain of Thought)、机器翻译
-- 📊 数据驱动，善于将复杂问题转化为可落地的解决方案
+- 🎓 Graduate student focusing on **Large Language Models (LLM)** and **Natural Language Processing (NLP)**
+- 🤖 Passionate about **AI Agent** development and applications
+- 🔍 Research interests: LLM fine-tuning, Reinforcement Learning, Chain of Thought (CoT)
+- 📊 Data-driven, skilled at transforming complex problems into practical solutions
 
 ## 🛠️ Research & Skills
 
@@ -33,7 +35,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 </div>
@@ -105,11 +107,11 @@
 
 ## 💬 Ask Me About
 
-- 🤖 AI Agent 开发与应用
-- 🧠 LLM 微调与优化
-- 📊 数据分析与可视化
-- 🔗 思维链与推理能力
-- 🌐 机器翻译
+- 🤖 AI Agent Development & Applications
+- 🧠 LLM Fine-tuning & Optimization
+- 📊 Data Analysis & Visualization
+- 🔗 Chain of Thought & Reasoning
+- 🌐 Machine Translation
 
 ## 📫 How to Reach Me
 

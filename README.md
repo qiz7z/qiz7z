@@ -4,8 +4,7 @@
 
 **Graduate Student | LLM & NLP Researcher | AI Agent Developer**
 
-[![GitHub followers](https://img.shields.io/github/followers/qiz7z?style=social)](https://github.com/qiz7z?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/qiz7z?style=social)](https://github.com/qiz7z?tab=repositories)
+
 
 English | [中文](README_CN.md)
 

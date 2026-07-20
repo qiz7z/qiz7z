@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/qiz7z?style=social)](https://github.com/qiz7z?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/qiz7z?style=social)](https://github.com/qiz7z?tab=repositories)
 
-[English](README.md) | 中文
+[English](README-EN.md) | 中文
 
 </div>
 

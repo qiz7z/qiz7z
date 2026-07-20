@@ -18,6 +18,7 @@ English | [中文](README_CN.md)
 - 🤖 Passionate about **AI Agent** development and applications
 - 🔍 Research interests: LLM fine-tuning, Reinforcement Learning, Chain of Thought (CoT)
 - 📊 Data-driven, skilled at transforming complex problems into practical solutions
+- 🍚 Low resource machine translation
 
 ## 🛠️ Research & Skills
 
